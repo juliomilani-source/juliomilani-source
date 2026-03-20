@@ -34,7 +34,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Nome do Projeto]  
+📌 Projeto 1 – Meu site: file:///C:/Users/aluno/Documents/J%C3%BAlio_Senai/Desenvolvimento%20de%20Sistemas/meusite.html
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 
